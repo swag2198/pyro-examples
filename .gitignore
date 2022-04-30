@@ -1,0 +1,20 @@
+.history/
+.vscode/
+.spyproject/
+.idea/
+**/.DS_Store
+.DS_Store
+tmp/
+
+# Python
+__pycache__/
+*.pyc
+**/__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+notebooks/Untitled*.ipynb
+
+# MyPy
+.mypy_cache/
